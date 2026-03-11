@@ -1,4 +1,4 @@
-GrantLedger
+##GrantLedger##
 GrantLedger is a transparency-focused grant management platform built on the Stellar network using Soroban smart contracts.
 The platform helps donors ensure that funds reach their intended purpose by locking grants in escrow and releasing them only when verified milestones are completed.
 GrantLedger addresses the growing need for accountability and trust in grant distribution, particularly in regions where monitoring the use of funds can be difficult.
