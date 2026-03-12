@@ -71,6 +71,7 @@ The contract checks two conditions:
 • The verifier is authorized
 • The amount released does not exceed the total grant amount
 If both conditions are satisfied, the funds are released.
+
 Outcome:
 The NGO receives the funds associated with the completed milestone.
 # Step 6 — View Grant Status
