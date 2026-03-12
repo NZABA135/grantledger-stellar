@@ -14,8 +14,11 @@ Billions of dollars are distributed globally through grants every year. However,
 Key challenges include:
 
 • Limited visibility into how funds are spent
+
 • Delayed or unreliable reporting from implementing organizations
+
 • Risk of misallocation or misuse of funds
+
 • Lack of automated systems to enforce milestone-based funding
 
 Because of these issues, donors often hesitate to fund projects in high-impact regions where transparency systems are weak.
@@ -31,13 +34,16 @@ GrantLedger introduces a **milestone-based grant escrow system** powered by bloc
 The platform enables:
 
 • Donors to lock grant funds securely on-chain
+
 • NGOs to receive funding only when progress is verified
+
 • Independent verifiers to confirm milestone completion
+
 • Transparent tracking of fund allocation
 
 By using Soroban smart contracts on the Stellar network, GrantLedger creates a **trustless funding mechanism** that reduces fraud and increases confidence in grant funding.
 
----
+
 
 # System Requirements (Draft)
 
@@ -46,21 +52,30 @@ By using Soroban smart contracts on the Stellar network, GrantLedger creates a *
 The platform should allow:
 
 • Creation of a grant funding agreement
+
 • Locking funds into a smart contract escrow
+
 • Definition of project milestones
+
 • Verification of milestone completion
+
 • Controlled release of funds
+
 • Viewing grant status and funding progress
 
 ### Non-Functional Requirements
 
 • High reliability and security
+
 • Transparent transaction records
+
 • Low transaction fees
+
 • Fast transaction confirmation
+
 • Compatibility with Stellar ecosystem tools
 
----
+
 
 # Architecture Overview
 
@@ -97,7 +112,7 @@ This layer provides:
 
 All critical financial operations remain on-chain.
 
----
+
 
 # Project Architecture Diagram (Conceptual)
 
@@ -120,7 +135,7 @@ Soroban Smart Contract
 NGO Receives Funds
 ```
 
----
+
 
 # 12-Month Development Roadmap
 
@@ -132,7 +147,7 @@ Research and project design
 • System architecture design
 • Smart contract design
 
----
+
 
 ### Months 3 – 4
 
@@ -142,7 +157,7 @@ Core smart contract development
 • Milestone verification logic
 • Testing and debugging
 
----
+
 
 ### Months 5 – 6
 
@@ -152,7 +167,7 @@ Prototype platform
 • Smart contract integration
 • Demo environment
 
----
+
 
 ### Months 7 – 8
 
@@ -162,7 +177,7 @@ Pilot program
 • Launch small pilot grants
 • Collect user feedback
 
----
+
 
 ### Months 9 – 10
 
@@ -172,7 +187,7 @@ Platform improvement
 • Add reporting dashboards
 • Optimize transaction processes
 
----
+
 
 ### Months 11 – 12
 
@@ -182,7 +197,7 @@ Public launch preparation
 • Partnership development
 • Ecosystem integration
 
----
+
 
 # Go-to-Market Strategy
 
@@ -195,7 +210,7 @@ GrantLedger will focus initially on organizations involved in development fundin
 • NGOs implementing projects
 • Impact investors
 
----
+
 
 ### Market Entry Strategy
 
@@ -204,13 +219,13 @@ GrantLedger will focus initially on organizations involved in development fundin
 3. Partner with development organizations
 4. Expand through the African development ecosystem
 
----
+
 
 ### Long-Term Vision
 
 GrantLedger aims to become a **standard infrastructure layer for transparent grant funding**, enabling donors worldwide to fund projects with confidence.
 
----
+
 
 # Repository Structure
 
@@ -225,7 +240,7 @@ grantledger
 └── docs/
 ```
 
----
+
 
 # Future Development
 
@@ -236,7 +251,7 @@ Future features may include:
 • Integration with stablecoins
 • Governance mechanisms for grant programs
 
----
+
 
 # License
 
