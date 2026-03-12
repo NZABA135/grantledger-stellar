@@ -2,6 +2,7 @@
 
 ## Overview
 The GrantLedger smart contract is responsible for managing grant funding in a transparent and controlled way. It acts as a programmable escrow that stores grant information and ensures that funds are released only under defined conditions.
+
 The contract is written in **Rust using the Soroban SDK** and deployed on the **Stellar network**.
 The purpose of the contract is to automate trust between donors and grant recipients.
 
