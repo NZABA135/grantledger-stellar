@@ -40,6 +40,7 @@ Information provided:
 • Verifier address
 • Total funding amount
 The smart contract stores this information and creates a new grant record.
+
 Outcome:
 A grant agreement is now registered on-chain.
 # Step 2 — Lock Grant Funds
@@ -47,6 +48,7 @@ A grant agreement is now registered on-chain.
 The donor transfers the grant funds to the smart contract escrow.
 This means the funds are no longer controlled directly by the donor or the NGO.
 Instead, they are managed by the contract according to predefined rules.
+
 Outcome:
 The funds are now securely locked and cannot be withdrawn without authorization.
 # Step 3 — Project Progress
