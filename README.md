@@ -5,7 +5,9 @@ GrantLedger addresses the growing need for **accountability and trust in grant d
 
 # Problem Definition
 Billions of dollars are distributed globally through grants every year. However, many donors struggle with a lack of transparency and accountability in how these funds are used.
+
 Key challenges include:
+
 • Limited visibility into how funds are spent
 • Delayed or unreliable reporting from implementing organizations
 • Risk of misallocation or misuse of funds
@@ -16,6 +18,7 @@ GrantLedger solves this by introducing **programmable grant escrow**, where fund
 # Solution Overview
 GrantLedger introduces a **milestone-based grant escrow system** powered by blockchain technology.
 The platform enables:
+
 • Donors to lock grant funds securely on-chain
 • NGOs to receive funding only when progress is verified
 • Independent verifiers to confirm milestone completion
