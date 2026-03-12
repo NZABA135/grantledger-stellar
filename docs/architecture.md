@@ -35,7 +35,6 @@ The smart contract:
 • Controls when funds can be released
 • Verifies authorized participants
 • Maintains immutable transaction history
-
 ## 2. Application Layer
 The application layer provides the interface through which users interact with the system.
 This includes interfaces for:
