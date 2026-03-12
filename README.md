@@ -12,23 +12,28 @@ Key challenges include:
 • Delayed or unreliable reporting from implementing organizations
 • Risk of misallocation or misuse of funds
 • Lack of automated systems to enforce milestone-based funding
+
 Because of these issues, donors often hesitate to fund projects in high-impact regions where transparency systems are weak.
 GrantLedger solves this by introducing **programmable grant escrow**, where funds are automatically controlled by smart contracts and released only when verified conditions are met.
 
 # Solution Overview
 GrantLedger introduces a **milestone-based grant escrow system** powered by blockchain technology.
+
 The platform enables:
 
 • Donors to lock grant funds securely on-chain
 • NGOs to receive funding only when progress is verified
 • Independent verifiers to confirm milestone completion
 • Transparent tracking of fund allocation
+
 By using Soroban smart contracts on the Stellar network, GrantLedger creates a **trustless funding mechanism** that reduces fraud and increases confidence in grant funding.
 
 # System Requirements (Draft)
 
 ### Functional Requirements
+
 The platform should allow:
+
 • Creation of a grant funding agreement
 • Locking funds into a smart contract escrow
 • Definition of project milestones
@@ -37,6 +42,7 @@ The platform should allow:
 • Viewing grant status and funding progress
 
 ### Non-Functional Requirements
+
 • High reliability and security
 • Transparent transaction records
 • Low transaction fees
@@ -44,11 +50,15 @@ The platform should allow:
 • Compatibility with Stellar ecosystem tools
 
 # Architecture Overview
+
 GrantLedger is designed with a modular architecture consisting of three main layers.
 
 ### 1. Smart Contract Layer
+
 Built with **Soroban smart contracts**.
+
 Responsible for:
+
 • Grant creation
 • Fund escrow management
 • Milestone tracking
@@ -67,9 +77,11 @@ This layer provides:
 • Public grant transparency dashboards
 • Transaction tracking
 • Impact reporting
+
 All critical financial operations remain on-chain.
 
 # Project Architecture Diagram (Conceptual)
+
 
 Donor
   |
@@ -90,8 +102,11 @@ NGO Receives Funds
 
 
 # 6-Month Development Roadmap
+
 ### Month 1
+
 Research and project design
+
 • Problem validation
 • System architecture design
 • Smart contract design
