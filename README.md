@@ -5,7 +5,7 @@ The platform helps donors ensure that funds reach their intended purpose by lock
 
 GrantLedger addresses the growing need for **accountability and trust in grant distribution**, particularly in regions where monitoring the use of funds can be difficult.
 
----
+
 
 # Problem Definition
 
@@ -22,7 +22,7 @@ Because of these issues, donors often hesitate to fund projects in high-impact r
 
 GrantLedger solves this by introducing **programmable grant escrow**, where funds are automatically controlled by smart contracts and released only when verified conditions are met.
 
----
+
 
 # Solution Overview
 
