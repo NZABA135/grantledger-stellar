@@ -2,14 +2,12 @@
 ## Overview
 GrantLedger is a blockchain-based grant management platform designed to improve transparency and accountability in the distribution of grant funding. The system uses **Soroban smart contracts on the Stellar network** to manage grant funds through programmable escrow.
 The architecture is designed to ensure that donor funds are released only when predefined project milestones are verified.
-
 # Architecture Principles
 The system architecture is guided by several key principles:
 **Transparency**
 All financial transactions related to grant funding are recorded on-chain, allowing donors and stakeholders to track how funds move.
 **Security**
 Grant funds are stored in a smart contract escrow to prevent unauthorized access or misuse.
-
 **Accountability**
 Milestone verification ensures that funds are released only when project progress has been confirmed.
 
