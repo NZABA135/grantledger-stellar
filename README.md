@@ -285,5 +285,3 @@ Future features may include:
 
 MIT License
 
-
-These three files can **dramatically increase your credibility in a hackathon.**
