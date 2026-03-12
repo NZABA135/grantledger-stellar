@@ -88,8 +88,11 @@ Built with **Soroban smart contracts**.
 Responsible for:
 
 • Grant creation
+
 • Fund escrow management
+
 • Milestone tracking
+
 • Conditional fund release
 
 ### 2. Application Layer
@@ -97,7 +100,9 @@ Responsible for:
 The application layer will provide a user interface for:
 
 • Donors
+
 • NGOs
+
 • Verifiers
 
 This layer interacts with the smart contract through Stellar APIs.
@@ -107,7 +112,9 @@ This layer interacts with the smart contract through Stellar APIs.
 This layer provides:
 
 • Public grant transparency dashboards
+
 • Transaction tracking
+
 • Impact reporting
 
 All critical financial operations remain on-chain.
@@ -144,7 +151,9 @@ NGO Receives Funds
 Research and project design
 
 • Problem validation
+
 • System architecture design
+
 • Smart contract design
 
 
@@ -154,7 +163,9 @@ Research and project design
 Core smart contract development
 
 • Grant escrow contract
+
 • Milestone verification logic
+
 • Testing and debugging
 
 
@@ -164,7 +175,9 @@ Core smart contract development
 Prototype platform
 
 • Basic user interface
+
 • Smart contract integration
+
 • Demo environment
 
 
@@ -174,7 +187,9 @@ Prototype platform
 Pilot program
 
 • Partner with NGOs
+
 • Launch small pilot grants
+
 • Collect user feedback
 
 
@@ -184,7 +199,9 @@ Pilot program
 Platform improvement
 
 • Improve contract security
+
 • Add reporting dashboards
+
 • Optimize transaction processes
 
 
@@ -194,7 +211,9 @@ Platform improvement
 Public launch preparation
 
 • Documentation
+
 • Partnership development
+
 • Ecosystem integration
 
 
@@ -206,8 +225,11 @@ GrantLedger will focus initially on organizations involved in development fundin
 ### Target Users
 
 • International donors
+
 • Philanthropic foundations
+
 • NGOs implementing projects
+
 • Impact investors
 
 
@@ -215,8 +237,11 @@ GrantLedger will focus initially on organizations involved in development fundin
 ### Market Entry Strategy
 
 1. Launch pilot programs with NGOs
+   
 2. Demonstrate transparency advantages to donors
+   
 3. Partner with development organizations
+
 4. Expand through the African development ecosystem
 
 
@@ -247,8 +272,11 @@ grantledger
 Future features may include:
 
 • Multi-grant management
+
 • On-chain reporting tools
+
 • Integration with stablecoins
+
 • Governance mechanisms for grant programs
 
 
