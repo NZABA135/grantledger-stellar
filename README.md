@@ -85,6 +85,7 @@ Soroban Smart Contract
   v
 NGO Receives Funds
 
+
 # 6-Month Development Roadmap
 ### Month 1
 Research and project design
@@ -140,6 +141,7 @@ GrantLedger will focus initially on organizations involved in development fundin
 ### Long-Term Vision
 GrantLedger aims to become a **standard infrastructure layer for transparent grant funding**, enabling donors worldwide to fund projects with confidence.
 # Repository Structure
+
 grantledger
 │
 ├── src/
@@ -148,6 +150,7 @@ grantledger
 ├── Cargo.toml
 ├── README.md
 └── docs/
+
 
 # Future Development
 Future features may include:
